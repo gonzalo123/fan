@@ -1,0 +1,7 @@
+{
+    "telegramBotAPIKey": "PUT_HERE_YOUR_TELEGRAM_API_KEY",
+    "beeWiAddress":"PUT_HERE_YOUR_BeeWi_Mac_address",
+    "telegramChatId":"PUT_HERE_THE_TELEGRAM_CHAT_ID_WHERE_YOU_WANT_TO_SEND_MESSAGES",
+    "threshold": temperature_threshold_to_trigger_your_wemo_device,
+    "wemoDevice":"PUT_HERE_YOUR_WEMO_DEVICE_NAME",
+    "beeWiData":{}
