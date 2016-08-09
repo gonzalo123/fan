@@ -12,8 +12,6 @@ var noble = require('noble'),
     configuration,
     confPath;
 
-process.env.NODE_ENV = 'prod';
-
 if (process.argv.length <= 2) {
     console.log("Usage: " + __filename + " conf.json");
     process.exit(-1);
